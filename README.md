@@ -4,7 +4,7 @@
     <img align="center" src="https://img.shields.io/github/followers/Canmi21?style=flat&label=Followers"/>
     <a href="https://github.com/Canmi21?tab=repositories"><img align="center" src="https://img.shields.io/badge/GitHub-Repositories-blue?style=flat&labelColor=gray"/></a>
     <img align="center" src="https://img.shields.io/badge/Twitter-%40Canmi21-blue?style=flat&labelColor=gray"/>
-    <a href="https://canmi21.github.io"><img align="center" src="https://img.shields.io/badge/Blog-Hexo-blue?style=flat&labelColor=gray"/></a>
+    <a href="https://arc.canmi.icu"><img align="center" src="https://img.shields.io/badge/Blog-Hexo-blue?style=flat&labelColor=gray"/></a>
     <img align="center" src="https://img.shields.io/badge/Love-You-blue?style=flat&labelColor=gray"/>
 </p>
 
